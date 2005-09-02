@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cv>
+	<InfosCiviles>
+		<Civilite/>
+		<Nom/>
+		<Prenom/>
+		<Adresse1/>
+		<Adresse2/>
+		<CodePostal/>
+		<Ville/>
+		<DateNaissance/>
+		<Age/>
+		<LieuNaissance/>
+		<Tel/>
+		<Portable/>
+		<Email/>
+		<Situation/>
+		<nbEnfants/>
+		<Photo/>
+	</InfosCiviles>
+	<Generalites>
+		<FonctionPrincipale/>
+		<Objectifs>
+			<Objectif/>
+		</Objectifs>
+	</Generalites>
+	<Formations>
+		<Formation>
+			<DateDebut/>
+			<DateFin/>
+			<Diplome/>
+			<Detail/>
+		</Formation>
+	</Formations>
+	<Competences>
+	
+	</Competences>
+	<Experiences>
+	</Experiences>
+	<Langues>
+	</Langues>
+</cv>
